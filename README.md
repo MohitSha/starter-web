@@ -1,11 +1,7 @@
-# Started Web
+# Starter Web Project
 
-This is sample file
-
-## Intro
+## Intor
 
 ## Purpose
 
-## Deployment
-
-## how to contri
+## how to contribute
