@@ -8,6 +8,10 @@ This is an intor
 
 ## Purpose
 
+On purpose
+
 ## Deployment
+
+This is deployment section
 
 ## how to contribute
